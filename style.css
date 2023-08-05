@@ -1,0 +1,22 @@
+*{
+  font-family: 'Varela Round', sans-serif;}
+
+body{
+  background-color: #D09AC1;
+
+}
+
+button {
+  position: relative;
+  padding: 10px 30px;
+  background: #9D648D;
+  font-size: 17px;
+  font-weight: 500;
+  color: #ffffff;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+.tbm{
+  margin-top: 30px;
+}
+
